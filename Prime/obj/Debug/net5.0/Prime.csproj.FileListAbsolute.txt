@@ -10,3 +10,7 @@ C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.csproj.CoreCompileInpu
 C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.dll
 C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\ref\Prime.dll
 C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.pdb
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.exe
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.runtimeconfig.json
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.runtimeconfig.dev.json
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.genruntimeconfig.cache
