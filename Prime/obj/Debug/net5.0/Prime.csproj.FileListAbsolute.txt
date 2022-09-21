@@ -1,0 +1,12 @@
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.deps.json
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.dll
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\ref\Prime.dll
+C:\Users\shabr\Desktop\Prime\Prime\bin\Debug\net5.0\Prime.pdb
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.csproj.AssemblyReference.cache
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.AssemblyInfoInputs.cache
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.AssemblyInfo.cs
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.dll
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\ref\Prime.dll
+C:\Users\shabr\Desktop\Prime\Prime\obj\Debug\net5.0\Prime.pdb
